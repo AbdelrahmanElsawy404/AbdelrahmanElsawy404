@@ -5,7 +5,7 @@ Data Science • Machine Learning • Artificial Intelligence
 </h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE4cHVkMXNsdXN3dGgzcnN0NGV2Mzc1NmJma3czcmZ6YWI5dDJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="600" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR1OHJ5cDg2aHNrbzFpcjZvN2gxazVzdjd6M2drOTZ3bDQ4NGp0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="600" />
 </p>
 
 <p align="center">
