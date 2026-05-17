@@ -5,7 +5,7 @@ Data Science • Machine Learning • Artificial Intelligence
 </h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU0YmtkMWY2c3V4aGc5ZG9yNzBwcGRhM3ozbGY4N3RkM3RnNjZiaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="500" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE4cHVkMXNsdXN3dGgzcnN0NGV2Mzc1NmJma3czcmZ6YWI5dDJnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.gif" width="600" />
 </p>
 
 <p align="center">
@@ -56,12 +56,4 @@ Data Science • Machine Learning • Artificial Intelligence
   <a href="https://www.linkedin.com/in/abdelrahman-elsawy-053952407">
     <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Elsawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdelrahmanElsawy404&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
