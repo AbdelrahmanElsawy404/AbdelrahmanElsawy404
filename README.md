@@ -18,10 +18,8 @@ Data Science • Machine Learning • Artificial Intelligence
 
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🐍 Python Developer focused on Data Science & AI
-- 📊 Interested in Predictive Modeling & Intelligent Systems
 - 🎓 Computer Science Student at TU Dortmund University
 - 🌍 Based in Germany
-- ☕ Powered by Coffee
 
 ---
 
