@@ -1,57 +1,14 @@
-# Abdelrahman 👋
+# Hello! It's nice to meet you 👋
 
-<h3 align="center">
-Data Science • Machine Learning • Artificial Intelligence
-</h3>
+I am a data scientist currently studying Data Science (B.Sc.) at Technische Universität Dortmund. I work with Python, SQL, and machine learning/deep learning frameworks like NumPy, Pandas, Scikit-learn, and TensorFlow to build predictive models and analyze complex datasets. I love coffee ☕, statistical analysis, and turning ideas into practical, data-driven applications.
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTR1OHJ5cDg2aHNrbzFpcjZvN2gxazVzdjd6M2drOTZ3bDQ4NGp0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif" width="600" />
-</p>
+At university, I specialize in statistical data analysis, probability, linear algebra, and algorithm design. I enjoy building end-to-end machine learning pipelines—ranging from comprehensive pre-processing and stacking ensemble regressors (like my Housing Price Predictor) to training deep Convolutional Neural Networks (like my Cats vs. Dogs Classifier).
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=58A6FF&center=true&vCenter=true&width=700&lines=Training+Models+%26+Drinking+Coffee" />
-</p>
+I live in Dortmund, Germany 🇩🇪, where I study, program, and continuously explore the intersection of machine learning and software engineering.
 
----
+You can find me elsewhere at:
 
-# ❄️ About Me
-
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🐍 Python Developer focused on Data Science & AI
-- 🎓 Computer Science Student at TU Dortmund University
-- 🌍 Based in Germany
-
----
-
-# ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy" />
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikitlearn" />
-  <img src="https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter" />
-</p>
-
----
-
-# 🚀 Currently Learning
-
-- 📈 Machine Learning Algorithms
-- 🧠 Deep Learning Fundamentals
-- 🔍 Data Analysis & Visualization
-- ⚡ AI Model Optimization
-- 🐧 Linux & Open Source
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-elsawy-053952407">
-    <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman%20Elsawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+* 🌐 [Personal Portfolio Website](https://abdelrhaman.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-elsawy-053952407)
+* 🐙 [GitHub Profile](https://github.com/AbdelrahmanElsawy404)
+* ✉️ [Email](mailto:abdelrahman.elsawy1997@gmail.com)
