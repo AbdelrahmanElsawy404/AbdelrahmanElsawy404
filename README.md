@@ -1,4 +1,4 @@
-# Hello! It's nice to meet you 👋
+# Abdelrahman Elsawy
 
 I am a data scientist currently studying Data Science (B.Sc.) at Technische Universität Dortmund. I work with Python, SQL, and machine learning/deep learning frameworks like NumPy, Pandas, Scikit-learn, and TensorFlow to build predictive models and analyze complex datasets. I love coffee ☕, statistical analysis, and turning ideas into practical, data-driven applications.
 
