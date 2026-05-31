@@ -10,5 +10,4 @@ You can find me elsewhere at:
 
 * 🌐 [Personal Portfolio Website](https://abdelrhaman.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-elsawy-053952407)
-* 🐙 [GitHub Profile](https://github.com/AbdelrahmanElsawy404)
 * ✉️ [Email](mailto:abdelrahman.elsawy1997@gmail.com)
